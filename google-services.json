@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "991870813434",
+    "firebase_url": "https://my-video-status-24ef1.firebaseio.com",
+    "project_id": "my-video-status-24ef1",
+    "storage_bucket": "my-video-status-24ef1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991870813434:android:4b79fae58fa0eecc",
+        "android_client_info": {
+          "package_name": "com.hi.videostatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991870813434-k5bgdij9csbukaaitb0pcmi2givlr2ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoy0MKh1n_PGCPN7ol_Bf7SOg8h9upJkI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
